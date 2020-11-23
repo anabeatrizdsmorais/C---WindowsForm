@@ -1,6 +1,6 @@
 <h2 align="center">Trabalhos Acadêmicos - C# Windows Form ⭐</h2>
 
-<p align="center">Exercicios feitos com C#/Windows Form .NET Core.
+<p align="center">Exercicios feitos com C#/Windows Form .NET Core.<br>
 App Windows Forms com C#. (Aplicativos simples de cálculo)
 </p>
 
